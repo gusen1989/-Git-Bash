@@ -1,9 +1,10 @@
-
+<rut<
        <name></gusen magomedov>
        
         <age> </33>
         
-	<pets></2>
+	<pets="/2">
         
-	<salary></10000> <USD>
+	<salary="10000"</USD>
 
+</rut>
