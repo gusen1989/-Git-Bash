@@ -5,6 +5,6 @@
         
 	<pets>1</pets>
         
-	<salary>"10000" USD</salary>
+	<salary>10000</salary>
 
 </person>
