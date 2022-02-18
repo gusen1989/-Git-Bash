@@ -3,9 +3,9 @@
 <bug_report>
       
   <Summary>5</Summary>
-  <Steps to reproduce>open</Steps to reproduce>
+  <Steps_to_reproduce>open</Steps_to_reproduce>
   <Result>open</Result>
-  <Expected Result>open</Expected Result> 
+  <Expected Result>open</Expected_Result> 
   </Severity> </Priority>
 
 </bug_report>
