@@ -1,11 +1,9 @@
-{ 
-	"movie": "Gladiator",
-	
-	"tv serie": "malibu",
+       <?xml version="1.0" encoding="UTF-8"?>
+<preferences>
+        <movie>Gladiator<movie>
+	<tv_serie>malibu</tv_serie>
+	<food>Sushi</food>
+	<season>Spring</season>
+	<country>United_states</country>
 
-	"food": "Sushi",
-
-	"season": "Spring",
-
-	"country": "United states"
-}
+</preferences>
