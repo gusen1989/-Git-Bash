@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+
 
 <bug_report>
       
-  <Summary>5</Summary>
+  <Summary>1</Summary>
   <Steps_to_reproduce>open</Steps_to_reproduce>
   <Result>open</Result>
   <Expected Result>open</Expected_Result> 
-  </Severity> </Priority>
+  <Severity></Priority>
 
-</bug_report>
+      </bug_repor>
