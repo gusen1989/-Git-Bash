@@ -5,7 +5,8 @@
   <Summary>1</Summary>
   <Steps_to_reproduce>open</Steps_to_reproduce>
   <Result>open</Result>
-  <Expected Result>open</Expected_Result> 
-  <Severity></Priority>
+  <Expected_Result>open</Expected_Result> 
+  <Severity>
+  </Priority>
 
       </bug_repor>
