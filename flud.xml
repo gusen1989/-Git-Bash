@@ -1,10 +1,10 @@
 <person>
-       <name>"gusen magomedov"</name>
+       <name>gusen magomedov</name>
        
         <age>33</age>
         
 	<pets>1</pets>
         
-	<salary>"10000" /USD">
+	<salary>"10000" USD</salary>
 
 </person>
