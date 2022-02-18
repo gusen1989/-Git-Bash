@@ -1,6 +1,15 @@
-{
-	"Qa skills": "git",
-	"gitbash": "jmetr",
-	"Charles": "Postman",
-	"Fiddler": "devtools"
-}
+       <?xml version="1.0" encoding="UTF-8"?>
+
+<skills>
+	
+	<skills_1>git</skills_1>
+	<skills_2>gitbash</skills_2>
+	<skills_3>jmetr</skills_3>
+	<skills_4>Charles</skills_4>
+        <skills_5>Postman</skills_5>
+	<skills_6>Fiddler</skills_6>
+       <skills_7>devtools</skills_7>
+       <skills_8>android_studio</skills_8>
+       <skills_9>sql</skills_9>
+	
+</skills>
