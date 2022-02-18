@@ -2,11 +2,12 @@
 
 <bug_report>
       
-  <Summary="1"</Summary>
-  <Steps_to_reproduce="open"</Steps_to_reproduce>
-  <Result="open"</Result>
-  <Expected_Result="open"</Expected_Result> 
-  <Severity="2"</Severity>
-  <Priority="1"</Priority>
+  <Summary>Не отображаеться предупреждающие окно в приложении при деление на ноль</Summary>,
+    <Req_id>14.3</Req_id>,
+    <Steps>ткрыть приложение, Ввести число, Нажать кнопку '/', вссети другое число, нажать кнопку '='</Steps>,
+    <Actual_result>в полле ввода число 0,предупреждающего окна нету</Actual_result>,
+    <Expected_result>Появляется окно ошибки с текстом,'вы не можете делить на 0'</Expected_result>,
+    <Severity>Minor</Severity>,
+    <Priority>Low</Priority>
 
-      </bug_repor>
+      </bug_report>
