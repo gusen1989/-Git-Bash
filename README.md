@@ -16,13 +16,13 @@ XML
 
 8)Отправить изменения на внешний репозиторий. - git add flud.xml - git commit -m "file" git push
 
-9)Создать файл preferences.xml. - touch preferences.xml
+9)Создать файл preferences.xml. - vim preferences.xml
 
 10)В файл preferences.xml добавить информацию о своих предпочтениях (Любимый фильм, любимый сериал, любимая еда, любимое время года, сторона которую хотели бы посетить) в формате XML. - vim preferences.xml
 
-11)Создать файл skills.xml добавить информацию о скиллах которые будут изучены на курсе в формате XML. - touch skills.xml vim skills.xml
+11)Создать файл skills.xml добавить информацию о скиллах которые будут изучены на курсе в формате XML. - vim skills.xml
 
-12)Сделать коммит в одну строку. - git add . - git commit -m “new file”
+12)Сделать коммит в одну строку. - git add . - git commit -am “new file”
 
 13)Отправить сразу 2 файла на внешний репозиторий. - git push
 
